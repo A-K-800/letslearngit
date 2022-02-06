@@ -2,6 +2,5 @@
 using namespace std;
 int main()
 {
-    cout<<"this is first file";
-    cout<<"change1";
+    cout<<"this is second file";
 }
